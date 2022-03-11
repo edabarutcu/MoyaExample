@@ -4,9 +4,9 @@
 
 
 # REQUIREMENT
-- ios 15.2
+- iOS 15.2
 - Xcode 13.2
-- Moya 11.0
+- Moya 15.0
 
 # API i use 
 We create easily and quickly a network layer using Moya Framework with an example. I’m going to use the API of https://jsonplaceholder.typicode.com to fetch data for the example.
