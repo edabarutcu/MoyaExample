@@ -1,4 +1,3 @@
-# MoyaExample
 
 # APIManager
 * A clear way to write network layer with moya framework
