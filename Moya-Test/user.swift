@@ -6,21 +6,22 @@
 //
 
 import Foundation
+import Moya
 
 struct User: Decodable {
-    var id: Int
-    var name: Int
-    var username: String
-    var email: String
-    var address: Address
-    var phone: String
-    var website: String
+ //   var id: Int
+    let name: String
+  //  var username: String
+  //  var email: String
+  //  var address: Address
+  //  var phone: String
+   // var website: String
 }
-struct Address: Decodable {
-    var street: String
-    var suite: String
-    var city:String
-    var zipcode:String
-}
+//struct Address: Decodable {
+ //   var street: String
+   // var suite: String
+    // var city:String
+   // var zipcode:String
+// }
 
 

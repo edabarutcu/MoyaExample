@@ -8,7 +8,7 @@
 import Foundation
 import Moya
 
-enum Consts {
+/* enum Consts {
     
     enum API {
         static let baseURL = URL(string: "https://jsonplaceholder.typicode.com")!
@@ -19,4 +19,4 @@ enum Consts {
         static let backendVerbose = true
     }
     
-}
+ }*/
