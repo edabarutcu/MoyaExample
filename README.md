@@ -1,6 +1,16 @@
 # MoyaExample
 
-### in this repository we will learn to use moya
+# APIManager
+* A clear way to write network layer with moya framework
+
+# REQUIREMENT
+- ios 15.2
+- Xcode 13.2
+- Moya 11.0
+
+# API i use 
+https://jsonplaceholder.typicode.com/users
+
 
 ## USAGE
 
